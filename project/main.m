@@ -1,4 +1,4 @@
-clear variables %%201623432±èÈñ¼­
+clear variables %%201623432Â±Ã¨ÃˆÃ±Â¼Â­
 close all
 %keyboard
 
